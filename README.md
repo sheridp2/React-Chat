@@ -1,2 +1,2 @@
 # React-Chat
-Simple chat app built in React
+Simple chat app built in React using Firebase
